@@ -2,7 +2,7 @@
 Skilled in User Experience, ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?flat&logo=javascript&logoColor=%23F7DF1E), ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white), EMCAScript6+ and a continuing desire to learn.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=social-green&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/syed-hussain-toronto)
-
+---
 - 🔭 I’m currently working on ...
   - ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
 ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=flat&logo=react)
