@@ -1,5 +1,22 @@
-## Hi there 👋
-Skilled in User Experience, ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?flat&logo=javascript&logoColor=%23F7DF1E), ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white), EMCAScript6+ and a continuing desire to learn.
+## Hi 👋, 
+
+### Technical Skills & Expertise 
+
+🚀 Frontend & UX: User Experience (UX) Design, ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?flat&logo=javascript&logoColor=%23F7DF1E) (ES6+)
+
+⚙️ Backend: ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+
+🌱 Mindset: Continuous learning & adoption of emerging technologies
+
+### Education & Credentials
+🎓 **Bachelors in Business** – _University of Karachi_
+
+📜 **Technical Certifications**:
+- _Diploma in Computer Science (DCS)_
+- _University of Toronto Certification_
+
+### Professional Approach
+Passionate about merging business acumen with full-stack technical skills to develop intuitive, high-performance applications. Focused on delivering exceptional user experiences through clean, efficient code and thoughtful design.
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=social-green&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/syed-hussain-toronto)
 ---
