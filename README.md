@@ -1,4 +1,33 @@
-## Hi 👋, 
+# Hi there, I'm Afzal Hussain 👋
+
+Welcome to my GitHub profile!  
+
+## 👨‍💼 About Me
+
+I’m a passionate technologist and leader with a diverse background in software development and management, holding roles such as Director, Senior Software Engineer, Senior Frontend Engineer, Senior Developer, Team Lead, Lead Associate, Chief Systems Analyst, and Senior Fullstack Engineer.
+
+## 💡 What I Do
+
+- **Build Modern Applications:** I specialize in full-stack development, leveraging technologies like JavaScript, Node, TypeScript, React, Angular, Vue, Java Spring Boot, PHP, and ASP.NET.
+- **AI-Driven Solutions:** I’m passionate about integrating AI into development workflows and creating AI-oriented applications that empower customers to achieve their goals more efficiently.
+- **Lead & Mentor:** With extensive experience leading teams and projects, I thrive on mentoring and helping others grow.
+
+## 🚀 Notable Project
+
+- **[Rogers Buyflow](https://oneview-buyflow-retail.rogers.com/phones/account-type-selection?flowType=nac&language=en):**  
+  Designed and developed the online buyflow for Rogers, streamlining the process for customers to purchase phones, tablets, and accessories online.
+
+## 🌱 Outside of Work
+
+When I’m not coding or leading teams, you’ll find me spending time outdoors or diving into books on any subject.
+
+## 📫 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-hussain-toronto/)
+
+---
+
+*Let’s build something amazing together!*
 
 ### Technical Skills & Expertise 
 
@@ -18,7 +47,7 @@
 ### Professional Approach
 Passionate about merging business acumen with full-stack technical skills to develop intuitive, high-performance applications. Focused on delivering exceptional user experiences through clean, efficient code and thoughtful design.
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=social-green&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/syed-hussain-toronto)
+
 ---
 - 🔭 I’m currently working on ...
   - ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
