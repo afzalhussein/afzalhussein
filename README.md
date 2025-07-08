@@ -170,6 +170,13 @@ Passionate about merging business acumen with full-stack technical skills to dev
 
 > ### Documentation
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=flat-square&logo=confluence&logoColor=white)
+
+> ### OCR
+[![TesseracT.js - OCR](https://img.shields.io/badge/TesseracT.js-OCR-2ea44f?logo=javascript&logoColor=javascript)](https://tesseract.projectnaptha.com/)
+
+> ### Business Intelligence
+[![View PowerBI-Developer-Samples on GitHub](https://img.shields.io/github/stars/microsoft/PowerBI-Developer-Samples?color=232323&label=PowerBI-Developer-Samples&logo=github&labelColor=232323)](https://github.com/microsoft/PowerBI-Developer-Samples) [![Author microsoft](https://img.shields.io/badge/microsoft-b820f9?labelColor=b820f9&logo=githubsponsors&logoColor=fff)](https://github.com/microsoft) ![Written in JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F7DF1E&logo=javascript&logoColor=FFFFFF)
+
 ### Education
 - Post graduate certification from **University of Toronto** in E-Commerce
   - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white), ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) / ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white), ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E), ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) SQL/PLSQL, ASP.NET, 	![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white), Visual BASIC.NET
