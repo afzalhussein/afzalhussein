@@ -206,6 +206,7 @@ Passionate about merging business acumen with full-stack technical skills to dev
 
 ### Certification
 [Investing in Human Skills in the Age of AI](https://www.linkedin.com/learning/certificates/eb3681502936e520a9c69ca5e189f827dec260444e80fbc65afb53401b145345?trk=share_certificate)
+
 [Building an Adaptability Mindset in the Age of AI](https://www.linkedin.com/learning/certificates/e715654b7caf883848f15877e6cdca38d515aea4d08fc3e9ef6930d24d8a8188?trk=share_certificate)
 
 [Amplify Your Communication Skills with Generative AI](https://www.linkedin.com/learning/certificates/eeaf26bf41d12ff4a03438967393bd2c805173277a02ff0efd1edc4fa76e9b10?trk=share_certificate)
