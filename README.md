@@ -25,6 +25,7 @@ When I’m not coding or leading teams, you’ll find me spending time outdoors 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-hussain-toronto/)
 
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@syedafzalhussein/)
 ---
 
 *Let’s build something amazing together!*
