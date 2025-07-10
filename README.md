@@ -34,7 +34,7 @@ When I’m not coding or leading teams, you’ll find me spending time outdoors 
 
 🚀 Frontend & UX: User Experience (UX) Design, ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?flat&logo=javascript&logoColor=%23F7DF1E) (ES6+)
 
-⚙️ Backend: ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
+⚙️ Backend: ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) [![Spring Boot - Framework](https://img.shields.io/badge/Spring_Boot-Framework-2ea44f?logo=java&logoColor=java)]
 
 🌱 Mindset: Continuous learning & adoption of emerging technologies
 
