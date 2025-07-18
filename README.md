@@ -16,7 +16,9 @@ I’m a passionate technologist and leader with a diverse background in software
 
 - **[Rogers Buyflow](https://oneview-buyflow-retail.rogers.com/phones/account-type-selection?flowType=nac&language=en):**  
   Designed and developed the online buyflow for Rogers, streamlining the process for customers to purchase phones, tablets, and accessories online.
-
+- **[TheColor.COM 2006-2007-Fullstack](https://www.thecolor.com/):**
+  Designed and developed an interactive children’s coloring website using ASP.NET Web Forms and VB.NET. Built a dynamic coloring engine, implemented custom image rendering logic, and optimized performance for cross-browser compatibility. Maintained a lightweight, user-friendly UI that continues to run reliably on modern browsers with minimal changes.
+  
 ## 🌱 Outside of Work
 
 When I’m not coding or leading teams, you’ll find me spending time outdoors or diving into books on any subject.
@@ -44,6 +46,15 @@ When I’m not coding or leading teams, you’ll find me spending time outdoors 
 📜 **Technical Certifications**:
 - _Diploma in Computer Science (DCS)_
 - _University of Toronto Certification_
+
+### Certification
+- [Investing in Human Skills in the Age of AI](https://www.linkedin.com/learning/certificates/eb3681502936e520a9c69ca5e189f827dec260444e80fbc65afb53401b145345?trk=share_certificate)
+
+- [Building an Adaptability Mindset in the Age of AI](https://www.linkedin.com/learning/certificates/e715654b7caf883848f15877e6cdca38d515aea4d08fc3e9ef6930d24d8a8188?trk=share_certificate)
+
+- [Amplify Your Communication Skills with Generative AI](https://www.linkedin.com/learning/certificates/eeaf26bf41d12ff4a03438967393bd2c805173277a02ff0efd1edc4fa76e9b10?trk=share_certificate)
+
+- [Leveraging the Power of Social Intelligence in the Age of AI](https://www.linkedin.com/learning/certificates/21c947896dcf07533d41dff34694bf2ba61f1d0e003690bcfbe8702611eaf4f4?trk=share_certificate)
 
 ### Professional Approach
 Passionate about merging business acumen with full-stack technical skills to develop intuitive, high-performance applications. Focused on delivering exceptional user experiences through clean, efficient code and thoughtful design.
