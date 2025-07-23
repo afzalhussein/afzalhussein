@@ -48,6 +48,8 @@ When I’m not coding or leading teams, you’ll find me spending time outdoors 
 - _University of Toronto Certification_
 
 ### Certification
+- [Integrating Generative AI into Business Strategy
+](https://www.linkedin.com/learning/certificates/536e1ae2b9b7fe54ed7b4ce8e92fb5666423471a729fbbe9f268772f16dab500?trk=share_certificate)
 - [Investing in Human Skills in the Age of AI](https://www.linkedin.com/learning/certificates/eb3681502936e520a9c69ca5e189f827dec260444e80fbc65afb53401b145345?trk=share_certificate)
 
 - [Building an Adaptability Mindset in the Age of AI](https://www.linkedin.com/learning/certificates/e715654b7caf883848f15877e6cdca38d515aea4d08fc3e9ef6930d24d8a8188?trk=share_certificate)
