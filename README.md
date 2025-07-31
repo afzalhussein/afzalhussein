@@ -5,6 +5,7 @@ Welcome to my GitHub profile!
 ## 👨‍💼 About Me
 
 I’m a passionate technologist and leader with a diverse background in software development and management, holding roles such as Director, Senior Software Engineer, Senior Frontend Engineer, Senior Developer, Team Lead, Lead Associate, Chief Systems Analyst, and Senior Fullstack Engineer.
+<img width="3840" height="3214" alt="Untitled diagram _ Mermaid Chart-2025-07-31-081321" src="https://github.com/user-attachments/assets/3e15de34-b5bd-470d-8ee6-02ee8c421773" />
 
 ## 💡 What I Do
 
